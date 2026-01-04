@@ -33,11 +33,5 @@ I like building clean systems, understanding how people reason, and improving th
 
 ---
 
-## 🔗 Connect
-- 🌍 Website: [aryasaravanan.com](https://aryasaravanan.com)
-- 💼 LinkedIn: (linked in profile)
-
----
-
 Thanks for stopping by 👀  
 Repos here reflect learning, iteration, and steady improvement.
