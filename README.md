@@ -16,7 +16,7 @@ I like building clean systems, understanding how people reason, and improving th
 ---
 
 ## 🚀 Some things I've worked on
-- 🌐 **Personal website** 
+- 🌐 **Personal website**  
   React + Vite, deployed on AWS with a custom domain
 
 - 📝 **SYNK**  
