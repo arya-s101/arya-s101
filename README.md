@@ -34,4 +34,3 @@ I like building clean systems, understanding how people reason, and improving th
 ---
 
 Thanks for stopping by 👀  
-Repos here reflect learning, iteration, and steady improvement.
