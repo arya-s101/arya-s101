@@ -16,6 +16,9 @@ I like building clean systems, understanding how people reason, and improving th
 ---
 
 ## 🚀 Some things I've worked on
+- 🚲 **TransitLens**
+  A Hack Canada 2026 project that uses a two-pronged web and hardware solution with Gemini-powered RAG pipelines to provide AI-narrated TTC                           guidance and physical navigation backups, built using React, Flask, and Raspberry Pi.
+
 - 🌐 **Personal website**  
   React + Vite, deployed on AWS with a custom domain
 
