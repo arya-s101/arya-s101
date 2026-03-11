@@ -17,13 +17,13 @@ I like building clean systems, understanding how people reason, and improving th
 
 ## 🚀 Some things I've worked on
 - 🚲 **TransitLens**
-  A Hack Canada 2026 project that uses a two-pronged web and hardware solution with Gemini-powered RAG pipelines to provide AI-narrated TTC                           guidance and physical navigation backups, built using React, Flask, and Raspberry Pi.
+  A Hack Canada 2026 project that uses a two-pronged web and hardware solution with Gemini-powered RAG pipelines to provide AI-narrated TTC                           guidance and physical navigation backups.
 
 - 🌐 **Personal website**  
-  React + Vite, deployed on AWS with a custom domain
+  React + Vite, deployed on AWS with a custom domain.
 
 - 📝 **SYNK**  
-  A task/habit tracker application built on Java Swing, emphasizing Clean Architecture and API integration, for the CSC207 course at U of T. 
+  A task/habit tracker application built on Java Swing, emphasizing Clean Architecture and API integration, for the CSC207 course at U of T.
 
 - 🏥 **CURA**  
   A McHacks 12 project focused on improving the experience of patients in the ER, built using HTML and Python (Flask).
